@@ -1,0 +1,10 @@
+Added Component: Designator=PI1(XT30)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PI2(XT30)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=24V Pin=PI1-1
+Added Pin To Net: NetName=GND Pin=PI1-2
+Added Pin To Net: NetName=24V Pin=PI2-1
+Added Pin To Net: NetName=GND Pin=PI2-2
+Added Member To Class: ClassName=PinWheelV2 Member=Component PI1 PowerInput
+Added Member To Class: ClassName=PinWheelV2 Member=Component PI2 PowerInput

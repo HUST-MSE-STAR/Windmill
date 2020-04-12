@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Signal1 Pin=U1-15
+Removed Pin From Net: NetName=EN11 Pin=U1-16
+Added Pin To Net: NetName=EN11 Pin=U1-15
+Added Pin To Net: NetName=Signal1 Pin=U1-16
+Added Member To Class: ClassName=PinWheelV2 Member=Component Q10 QNPN
+Added Member To Class: ClassName=PinWheelV2 Member=Component Relay6 Relay_SonLeSRD
+Added Room: Name=PinWheelV2

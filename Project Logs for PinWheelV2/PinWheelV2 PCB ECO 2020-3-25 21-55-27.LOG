@@ -1,0 +1,14 @@
+Added Component: Designator=Y1(¾§Õñ 3.2*2.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/ABM11AIG-25.000MHZ-4Z-T3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ABRACON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ABM11AIG-25.000MHZ-4Z-T3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "815-M11AIG-25-4ZT3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=815-M11AIG-25-4ZT3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OSC_IN Pin=Y1-1
+Added Pin To Net: NetName=DGND Pin=Y1-2
+Added Pin To Net: NetName=OSC_OUT Pin=Y1-3
+Added Pin To Net: NetName=DGND Pin=Y1-4
+Added Member To Class: ClassName=PinWheelV2 Member=Component Y1 25MHZ
+Added Room: Name=PinWheelV2
